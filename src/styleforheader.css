@@ -1,0 +1,27 @@
+img{
+    position: "relative";
+    left: "25%";
+}
+p{
+    text-align: "left";
+    
+}
+.a{
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.midd{
+    flex: 50%;
+    text-align:"left";
+    margin-left: 10px;
+}
+.middd{
+    flex: 50%;
+    text-align:"left";
+    margin-left: 10px;
+    margin-top: 8%;
+}
+
